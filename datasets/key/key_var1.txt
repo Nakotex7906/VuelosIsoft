@@ -1,0 +1,9 @@
+--BEGIN KEY--
+  1 2 3 4 5 6
+1 5 D C K M 1
+2 R I E 6 4 9
+3 Q P B A Y 2
+4 8 V 0 L 7 G
+5 Z H N U T F
+6 O W X 3 S J
+---END KEY---
